@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SghApplication<SGH>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.horarios.SGH.SghApplication",
+            "projectName": "SGH",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
