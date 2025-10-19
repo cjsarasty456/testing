@@ -1,1 +1,0 @@
-npm install --save-dev jest jest-expo @testing-library/react-native@12.4.3 @testing-library/jest-native react-test-renderer@19.1.0
